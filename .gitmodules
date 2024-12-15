@@ -1,0 +1,12 @@
+[submodule "Lib/nrfxlib"]
+	path = Lib/nrfxlib
+	url = https://github.com/nrfconnect/sdk-nrfxlib.git
+[submodule "embedded-cli"]
+	path = Lib/embedded-cli
+	url = https://github.com/funbiscuit/embedded-cli.git
+[submodule "Lib/littlefs"]
+	path = Lib/littlefs
+	url = https://github.com/littlefs-project/littlefs.git
+[submodule "Lib/nrfx"]
+	path = Lib/nrfx
+	url = https://github.com/NordicSemiconductor/nrfx.git
